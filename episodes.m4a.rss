@@ -1,0 +1,48 @@
+<?xml version="1.0"
+      encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:bitlove="http://bitlove.org"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:psc="http://podlove.org/simple-chapters"
+     version="2.0">
+
+  <channel>
+    <title>Ybenel</title>
+    <link>http://localhost:9110</link>
+    <atom:link href="http://localhost:9110/episodes.m4a.rss" rel="self" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+    <atom:link href="http://localhost:9110/episodes.m4a.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="http://localhost:9110/episodes.m4a.rss" rel="last" type="application/rss+xml" />
+    
+    
+
+    <atom:link rel="alternate" href="http://localhost:9110/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
+<atom:link rel="alternate" href="http://localhost:9110/episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <description>My Super Music Tracks.
+</description>
+    <lastBuildDate>Sat, 14 Nov 2020 00:50:19 +0100</lastBuildDate>
+    <language>en</language>
+    <generator>Jekyll-Octopod 0.9.23</generator>
+
+    <itunes:summary>My Super Music Tracks.
+</itunes:summary>
+    <itunes:author>ybenel</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://localhost:9110/img/logo-itunes.jpg" />
+    <itunes:owner>
+      <itunes:name>ybenel</itunes:name>
+      <itunes:email>r2dr0dn@pm.me</itunes:email>
+    </itunes:owner>
+    <managingEditor>r2dr0dn@pm.me (ybenel)</managingEditor>
+    <copyright>CC BY 4.0</copyright>
+    <itunes:subtitle>Where Life Comes By Music</itunes:subtitle>
+    <itunes:keywords>electronic, techno, dance, club, music, magic</itunes:keywords>
+    <image>
+      <title>Ybenel</title>
+      <url>http://localhost:9110/img/logo-itunes.jpg</url>
+      <link>http://localhost:9110</link>
+    </image>
+    
+    <itunes:category text="Technology" />
+    </channel>
+</rss>
