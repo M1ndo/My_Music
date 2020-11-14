@@ -1,0 +1,87 @@
+{"version": "https://jsonfeed.org/version/1",
+ "title": "Ybenel",
+ "home_page_url": "https://music.ybenel.tk/",
+ "feed_url": "https://music.ybenel.tk/feed.json",
+ "description": "My Super Music Tracks.",
+ "user_comment": "My Super Music Tracks.",
+ "icon": "https://music.ybenel.tk/apple-touch-icon-precomposed.png",
+ "favicon": "https://music.ybenel.tk/favicon.ico",
+ "expired": false,
+ "author": {
+   "name": "ybenel",
+   "url": "https://music.ybenel.tk"
+ },
+ "items": [
+   {"id": "38132f82",
+    "title": "The Mandalorian",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  The Mandalorian SoundTrack By (Ludwig Göransson)",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- ybenel --><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.ybenel.tk/episodes/Mandalorian.mp3\"},\"coverUrl\":\"https://music.ybenel.tk/img/Mandalorian.jpg\",\"title\":\"The Mandalorian\",\"subtitle\":\"The StarWars Franchise Never Dies!\",\"url\":\"https://music.ybenel.tk/2020/11/12/The-Mandalorian.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://music.ybenel.tk/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>The Mandalorian SoundTrack By (Ludwig Göransson)</li></ul>",
+    "url": "https://music.ybenel.tk/2020/11/12/The-Mandalorian.html",
+    "date_published": "2020-11-12T00:00:00+01:00",
+    "date_modified": "2020-11-12T00:00:00+01:00",
+    "author": {
+      "name": "Ybenel"
+    }
+  },
+   {"id": "ced07079",
+    "title": "Skins",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  This Is Likely The Most Best Intro Soooooo Unrealistic  Fits Perfectly As A Ringtone",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- ybenel --><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.ybenel.tk/episodes/Skins.mp3\"},\"coverUrl\":\"https://music.ybenel.tk/img/Skins.jpg\",\"title\":\"Skins\",\"subtitle\":\"One Of The Best Tv Series Back Then\",\"url\":\"https://music.ybenel.tk/2020/06/27/Skins.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://music.ybenel.tk/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>This Is Likely The Most Best Intro Soooooo Unrealistic</li>  <li>Fits Perfectly As A Ringtone</li></ul>",
+    "url": "https://music.ybenel.tk/2020/06/27/Skins.html",
+    "date_published": "2020-06-27T00:00:00+01:00",
+    "date_modified": "2020-06-27T00:00:00+01:00",
+    "author": {
+      "name": "Ybenel"
+    }
+  },
+   {"id": "f250740c",
+    "title": "A Little Further",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  Chaos Chaos ! Took Us To Make Either Worse Or Great Choices!",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- ybenel --><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.ybenel.tk/episodes/A_Little_Further.mp3\"},\"coverUrl\":\"https://music.ybenel.tk/img/Response.jpg\",\"title\":\"A Little Further\",\"subtitle\":\"Steps That Leads Into Redemption\",\"url\":\"https://music.ybenel.tk/2020/01/05/A-Little-Further.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://music.ybenel.tk/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>Chaos Chaos ! Took Us To Make Either Worse Or Great Choices!</li></ul>",
+    "url": "https://music.ybenel.tk/2020/01/05/A-Little-Further.html",
+    "date_published": "2020-01-05T00:00:00+01:00",
+    "date_modified": "2020-01-05T00:00:00+01:00",
+    "author": {
+      "name": "Ybenel"
+    }
+  },
+   {"id": "54332b69",
+    "title": "Response",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  My Last Response (GoodBye) I Gave Before Starting New Life  This Track Was Inspired From Extrawelt - 8000 (2006)",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- ybenel --><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.ybenel.tk/episodes/Response.mp3\"},\"coverUrl\":\"https://music.ybenel.tk/img/A_Little_Further.jpg\",\"title\":\"Response\",\"subtitle\":\"The Last Response I Gave To My Ex At The New Year\",\"url\":\"https://music.ybenel.tk/2019/12/30/Response.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://music.ybenel.tk/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>My Last Response (GoodBye) I Gave Before Starting New Life</li>  <li>This Track Was Inspired From Extrawelt - 8000 (2006)</li></ul>",
+    "url": "https://music.ybenel.tk/2019/12/30/Response.html",
+    "date_published": "2019-12-30T00:00:00+01:00",
+    "date_modified": "2019-12-30T00:00:00+01:00",
+    "author": {
+      "name": "Ybenel"
+    }
+  },
+   {"id": "2a76c537",
+    "title": "AyamZaman",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  Album Wa9tZman (Discontinued)3",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- ybenel --><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.ybenel.tk/episodes/AyamZaman.mp3\"},\"coverUrl\":\"https://music.ybenel.tk/img/AyamZaman.jpg\",\"title\":\"AyamZaman\",\"subtitle\":\"AyamZaman Beat Album Wa9tZman\",\"url\":\"https://music.ybenel.tk/2019/12/05/AyamZaman.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://music.ybenel.tk/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>Album Wa9tZman (Discontinued)3</li></ul>",
+    "url": "https://music.ybenel.tk/2019/12/05/AyamZaman.html",
+    "date_published": "2019-12-05T00:00:00+01:00",
+    "date_modified": "2019-12-05T00:00:00+01:00",
+    "author": {
+      "name": "Ybenel"
+    }
+  },
+   {"id": "eb5e609f",
+    "title": "3310",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  3310 Instrumental Inspired From 3310 By (Madd)",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- ybenel --><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.ybenel.tk/episodes/3310.mp3\"},\"coverUrl\":\"https://music.ybenel.tk/img/3310.jpg\",\"title\":\"3310\",\"subtitle\":\"3310 Instru By Ybenel\",\"url\":\"https://music.ybenel.tk/2019/10/25/3310.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://music.ybenel.tk/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>3310 Instrumental Inspired From 3310 By (Madd)</li></ul>",
+    "url": "https://music.ybenel.tk/2019/10/25/3310.html",
+    "date_published": "2019-10-25T00:00:00+01:00",
+    "date_modified": "2019-10-25T00:00:00+01:00",
+    "author": {
+      "name": "Ybenel"
+    }
+  }]
+}
