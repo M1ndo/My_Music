@@ -1,13 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://music.ybenel.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://music.ybenel.tk/" rel="alternate" type="text/html" /><updated>2020-11-22T19:50:27+01:00</updated><id>https://music.ybenel.tk/feed.xml</id><title type="html">Ybenel</title><subtitle>My Super Music Tracks.</subtitle><author><name>ybenel</name></author><entry><title type="html">The Imperial March</title><link href="https://music.ybenel.tk/2020/11/22/The-Imperial-March.html" rel="alternate" type="text/html" title="The Imperial March" /><published>2020-11-22T00:00:00+01:00</published><updated>2020-11-22T00:00:00+01:00</updated><id>https://music.ybenel.tk/2020/11/22/The-Imperial-March</id><content type="html" xml:base="https://music.ybenel.tk/2020/11/22/The-Imperial-March.html">&lt;!---
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://music.ybenel.cf/feed.xml" rel="self" type="application/atom+xml" /><link href="https://music.ybenel.cf/" rel="alternate" type="text/html" /><updated>2021-01-26T00:44:57+01:00</updated><id>https://music.ybenel.cf/feed.xml</id><title type="html">Ybenel</title><subtitle>My Super Music Tracks.</subtitle><author><name>ybenel</name></author><entry><title type="html">Monster Grain</title><link href="https://music.ybenel.cf/2021/01/24/Monster-Grain.html" rel="alternate" type="text/html" title="Monster Grain" /><published>2021-01-24T00:00:00+01:00</published><updated>2021-01-24T00:00:00+01:00</updated><id>https://music.ybenel.cf/2021/01/24/Monster-Grain</id><content type="html" xml:base="https://music.ybenel.cf/2021/01/24/Monster-Grain.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
 &lt;!-- ybenel --&gt;
 &lt;!-- &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.tk/episodes/The_Imperial_March.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.tk/img/DarthVader.jpg&quot;,&quot;title&quot;:&quot;The Imperial March&quot;,&quot;subtitle&quot;:&quot;The Dark Force Is Always With Me.&quot;,&quot;url&quot;:&quot;https://music.ybenel.tk/2020/11/22/The-Imperial-March.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.cf/episodes/Grain.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.cf/img/Monster.jpeg&quot;,&quot;title&quot;:&quot;Monster Grain&quot;,&quot;subtitle&quot;:&quot;Monster OST.&quot;,&quot;url&quot;:&quot;https://music.ybenel.cf/2021/01/24/Monster-Grain.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
-        src=&quot;https://music.ybenel.tk/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+        src=&quot;https://music.ybenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;Monster OST Anime Starting Theme&lt;/li&gt;
+  &lt;li&gt;The Best Starting Song Ever&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Naoki Urasawa</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.cf/Monster.jpeg" /><media:content medium="image" url="https://music.ybenel.cf/Monster.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Imperial March</title><link href="https://music.ybenel.cf/2020/11/22/The-Imperial-March.html" rel="alternate" type="text/html" title="The Imperial March" /><published>2020-11-22T00:00:00+01:00</published><updated>2020-11-22T00:00:00+01:00</updated><id>https://music.ybenel.cf/2020/11/22/The-Imperial-March</id><content type="html" xml:base="https://music.ybenel.cf/2020/11/22/The-Imperial-March.html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- ybenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.cf/episodes/The_Imperial_March.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.cf/img/DarthVader.jpg&quot;,&quot;title&quot;:&quot;The Imperial March&quot;,&quot;subtitle&quot;:&quot;The Dark Force Is Always With Me.&quot;,&quot;url&quot;:&quot;https://music.ybenel.cf/2020/11/22/The-Imperial-March.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.ybenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
  --&gt;
 
@@ -17,16 +36,16 @@ It is only necessary for hosting remotely.
   &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
   &lt;li&gt;The Imperial March SoundTrack Album The Empire Strikes Back (Star Wars) By John Williams&lt;/li&gt;
   &lt;li&gt;The Dark Force Is Always With Me (Darth Vader)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.tk/DarthVader.jpg" /><media:content medium="image" url="https://music.ybenel.tk/DarthVader.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Way</title><link href="https://music.ybenel.tk/2020/11/18/TheWay.html" rel="alternate" type="text/html" title="The Way" /><published>2020-11-18T00:00:00+01:00</published><updated>2020-11-18T00:00:00+01:00</updated><id>https://music.ybenel.tk/2020/11/18/TheWay</id><content type="html" xml:base="https://music.ybenel.tk/2020/11/18/TheWay.html">&lt;!---
+&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.cf/DarthVader.jpg" /><media:content medium="image" url="https://music.ybenel.cf/DarthVader.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Way</title><link href="https://music.ybenel.cf/2020/11/18/TheWay.html" rel="alternate" type="text/html" title="The Way" /><published>2020-11-18T00:00:00+01:00</published><updated>2020-11-18T00:00:00+01:00</updated><id>https://music.ybenel.cf/2020/11/18/TheWay</id><content type="html" xml:base="https://music.ybenel.cf/2020/11/18/TheWay.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
 &lt;!-- ybenel --&gt;
 &lt;!-- &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.tk/episodes/TheWay.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.tk/img/TheWay.png&quot;,&quot;title&quot;:&quot;The Way&quot;,&quot;subtitle&quot;:&quot;The Way Mod Tracks Used To Be In 90s For PSG Sound Chips.&quot;,&quot;url&quot;:&quot;https://music.ybenel.tk/2020/11/18/TheWay.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.cf/episodes/TheWay.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.cf/img/TheWay.png&quot;,&quot;title&quot;:&quot;The Way&quot;,&quot;subtitle&quot;:&quot;The Way Mod Tracks Used To Be In 90s For PSG Sound Chips.&quot;,&quot;url&quot;:&quot;https://music.ybenel.cf/2020/11/18/TheWay.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
-        src=&quot;https://music.ybenel.tk/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+        src=&quot;https://music.ybenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
  --&gt;
 
@@ -36,16 +55,16 @@ It is only necessary for hosting remotely.
   &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
   &lt;li&gt;The Way SoundTrack By r2dr0dn (Ybenel)&lt;/li&gt;
   &lt;li&gt;Simulating Nintendo 90s PSG Sound Chips&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.tk/TheWay.png" /><media:content medium="image" url="https://music.ybenel.tk/TheWay.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Mandalorian</title><link href="https://music.ybenel.tk/2020/11/12/The-Mandalorian.html" rel="alternate" type="text/html" title="The Mandalorian" /><published>2020-11-12T00:00:00+01:00</published><updated>2020-11-12T00:00:00+01:00</updated><id>https://music.ybenel.tk/2020/11/12/The-Mandalorian</id><content type="html" xml:base="https://music.ybenel.tk/2020/11/12/The-Mandalorian.html">&lt;!---
+&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.cf/TheWay.png" /><media:content medium="image" url="https://music.ybenel.cf/TheWay.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Mandalorian</title><link href="https://music.ybenel.cf/2020/11/12/The-Mandalorian.html" rel="alternate" type="text/html" title="The Mandalorian" /><published>2020-11-12T00:00:00+01:00</published><updated>2020-11-12T00:00:00+01:00</updated><id>https://music.ybenel.cf/2020/11/12/The-Mandalorian</id><content type="html" xml:base="https://music.ybenel.cf/2020/11/12/The-Mandalorian.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
 &lt;!-- ybenel --&gt;
 &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.tk/episodes/Mandalorian.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.tk/img/Mandalorian.jpg&quot;,&quot;title&quot;:&quot;The Mandalorian&quot;,&quot;subtitle&quot;:&quot;The StarWars Franchise Never Dies!&quot;,&quot;url&quot;:&quot;https://music.ybenel.tk/2020/11/12/The-Mandalorian.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.cf/episodes/Mandalorian.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.cf/img/Mandalorian.jpg&quot;,&quot;title&quot;:&quot;The Mandalorian&quot;,&quot;subtitle&quot;:&quot;The StarWars Franchise Never Dies!&quot;,&quot;url&quot;:&quot;https://music.ybenel.cf/2020/11/12/The-Mandalorian.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.ybenel.tk/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.ybenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
@@ -53,16 +72,16 @@ It is only necessary for hosting remotely.
 &lt;ul&gt;
   &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
   &lt;li&gt;The Mandalorian SoundTrack By (Ludwig Göransson)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.tk/Mandalorian.jpg" /><media:content medium="image" url="https://music.ybenel.tk/Mandalorian.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Skins</title><link href="https://music.ybenel.tk/2020/06/27/Skins.html" rel="alternate" type="text/html" title="Skins" /><published>2020-06-27T00:00:00+01:00</published><updated>2020-06-27T00:00:00+01:00</updated><id>https://music.ybenel.tk/2020/06/27/Skins</id><content type="html" xml:base="https://music.ybenel.tk/2020/06/27/Skins.html">&lt;!---
+&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.cf/Mandalorian.jpg" /><media:content medium="image" url="https://music.ybenel.cf/Mandalorian.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Skins</title><link href="https://music.ybenel.cf/2020/06/27/Skins.html" rel="alternate" type="text/html" title="Skins" /><published>2020-06-27T00:00:00+01:00</published><updated>2020-06-27T00:00:00+01:00</updated><id>https://music.ybenel.cf/2020/06/27/Skins</id><content type="html" xml:base="https://music.ybenel.cf/2020/06/27/Skins.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
 &lt;!-- ybenel --&gt;
 &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.tk/episodes/Skins.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.tk/img/Skins.jpg&quot;,&quot;title&quot;:&quot;Skins&quot;,&quot;subtitle&quot;:&quot;One Of The Best Tv Series Back Then&quot;,&quot;url&quot;:&quot;https://music.ybenel.tk/2020/06/27/Skins.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.cf/episodes/Skins.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.cf/img/Skins.jpg&quot;,&quot;title&quot;:&quot;Skins&quot;,&quot;subtitle&quot;:&quot;One Of The Best Tv Series Back Then&quot;,&quot;url&quot;:&quot;https://music.ybenel.cf/2020/06/27/Skins.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.ybenel.tk/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.ybenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
@@ -71,16 +90,16 @@ It is only necessary for hosting remotely.
   &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
   &lt;li&gt;This Is Likely The Most Best Intro Soooooo Unrealistic&lt;/li&gt;
   &lt;li&gt;Fits Perfectly As A Ringtone&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.tk/Skins.jpg" /><media:content medium="image" url="https://music.ybenel.tk/Skins.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">A Little Further</title><link href="https://music.ybenel.tk/2020/01/05/A-Little-Further.html" rel="alternate" type="text/html" title="A Little Further" /><published>2020-01-05T00:00:00+01:00</published><updated>2020-01-05T00:00:00+01:00</updated><id>https://music.ybenel.tk/2020/01/05/A-Little-Further</id><content type="html" xml:base="https://music.ybenel.tk/2020/01/05/A-Little-Further.html">&lt;!---
+&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.cf/Skins.jpg" /><media:content medium="image" url="https://music.ybenel.cf/Skins.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">A Little Further</title><link href="https://music.ybenel.cf/2020/01/05/A-Little-Further.html" rel="alternate" type="text/html" title="A Little Further" /><published>2020-01-05T00:00:00+01:00</published><updated>2020-01-05T00:00:00+01:00</updated><id>https://music.ybenel.cf/2020/01/05/A-Little-Further</id><content type="html" xml:base="https://music.ybenel.cf/2020/01/05/A-Little-Further.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
 &lt;!-- ybenel --&gt;
 &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.tk/episodes/A_Little_Further.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.tk/img/Response.jpg&quot;,&quot;title&quot;:&quot;A Little Further&quot;,&quot;subtitle&quot;:&quot;Steps That Leads Into Redemption&quot;,&quot;url&quot;:&quot;https://music.ybenel.tk/2020/01/05/A-Little-Further.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.cf/episodes/A_Little_Further.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.cf/img/Response.jpg&quot;,&quot;title&quot;:&quot;A Little Further&quot;,&quot;subtitle&quot;:&quot;Steps That Leads Into Redemption&quot;,&quot;url&quot;:&quot;https://music.ybenel.cf/2020/01/05/A-Little-Further.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.ybenel.tk/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.ybenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
@@ -88,34 +107,34 @@ It is only necessary for hosting remotely.
 &lt;ul&gt;
   &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
   &lt;li&gt;Chaos Chaos ! Took Us To Make Either Worse Or Great Choices!&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.tk/Response.jpg" /><media:content medium="image" url="https://music.ybenel.tk/Response.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Response</title><link href="https://music.ybenel.tk/2019/12/30/Response.html" rel="alternate" type="text/html" title="Response" /><published>2019-12-30T00:00:00+01:00</published><updated>2019-12-30T00:00:00+01:00</updated><id>https://music.ybenel.tk/2019/12/30/Response</id><content type="html" xml:base="https://music.ybenel.tk/2019/12/30/Response.html">&lt;!---
+&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.cf/Response.jpg" /><media:content medium="image" url="https://music.ybenel.cf/Response.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Response</title><link href="https://music.ybenel.cf/2019/12/30/Response.html" rel="alternate" type="text/html" title="Response" /><published>2019-12-30T00:00:00+01:00</published><updated>2019-12-30T00:00:00+01:00</updated><id>https://music.ybenel.cf/2019/12/30/Response</id><content type="html" xml:base="https://music.ybenel.cf/2019/12/30/Response.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
 &lt;!-- ybenel --&gt;
 &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.tk/episodes/Response.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.tk/img/A_Little_Further.jpg&quot;,&quot;title&quot;:&quot;Response&quot;,&quot;subtitle&quot;:&quot;The Last Response I Gave To My Ex At The New Year&quot;,&quot;url&quot;:&quot;https://music.ybenel.tk/2019/12/30/Response.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.cf/episodes/Response.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.cf/img/A_Little_Further.jpg&quot;,&quot;title&quot;:&quot;Response&quot;,&quot;subtitle&quot;:&quot;The Last Response&quot;,&quot;url&quot;:&quot;https://music.ybenel.cf/2019/12/30/Response.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.ybenel.tk/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.ybenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
-  &lt;li&gt;My Last Response (GoodBye) I Gave Before Starting New Life&lt;/li&gt;
+  &lt;li&gt;My Last Response&lt;/li&gt;
   &lt;li&gt;This Track Was Inspired From Extrawelt - 8000 (2006)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.tk/A_Little_Further.jpg" /><media:content medium="image" url="https://music.ybenel.tk/A_Little_Further.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">AyamZaman</title><link href="https://music.ybenel.tk/2019/12/05/AyamZaman.html" rel="alternate" type="text/html" title="AyamZaman" /><published>2019-12-05T00:00:00+01:00</published><updated>2019-12-05T00:00:00+01:00</updated><id>https://music.ybenel.tk/2019/12/05/AyamZaman</id><content type="html" xml:base="https://music.ybenel.tk/2019/12/05/AyamZaman.html">&lt;!---
+&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.cf/A_Little_Further.jpg" /><media:content medium="image" url="https://music.ybenel.cf/A_Little_Further.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">AyamZaman</title><link href="https://music.ybenel.cf/2019/12/05/AyamZaman.html" rel="alternate" type="text/html" title="AyamZaman" /><published>2019-12-05T00:00:00+01:00</published><updated>2019-12-05T00:00:00+01:00</updated><id>https://music.ybenel.cf/2019/12/05/AyamZaman</id><content type="html" xml:base="https://music.ybenel.cf/2019/12/05/AyamZaman.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
 &lt;!-- ybenel --&gt;
 &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.tk/episodes/AyamZaman.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.tk/img/AyamZaman.jpg&quot;,&quot;title&quot;:&quot;AyamZaman&quot;,&quot;subtitle&quot;:&quot;AyamZaman Beat Album Wa9tZman&quot;,&quot;url&quot;:&quot;https://music.ybenel.tk/2019/12/05/AyamZaman.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.cf/episodes/AyamZaman.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.cf/img/AyamZaman.jpg&quot;,&quot;title&quot;:&quot;AyamZaman&quot;,&quot;subtitle&quot;:&quot;AyamZaman Beat Album Wa9tZman&quot;,&quot;url&quot;:&quot;https://music.ybenel.cf/2019/12/05/AyamZaman.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.ybenel.tk/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.ybenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
@@ -123,16 +142,16 @@ It is only necessary for hosting remotely.
 &lt;ul&gt;
   &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
   &lt;li&gt;Album Wa9tZman (Discontinued)3&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.tk/AyamZaman.jpg" /><media:content medium="image" url="https://music.ybenel.tk/AyamZaman.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">3310</title><link href="https://music.ybenel.tk/2019/10/25/3310.html" rel="alternate" type="text/html" title="3310" /><published>2019-10-25T00:00:00+01:00</published><updated>2019-10-25T00:00:00+01:00</updated><id>https://music.ybenel.tk/2019/10/25/3310</id><content type="html" xml:base="https://music.ybenel.tk/2019/10/25/3310.html">&lt;!---
+&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.cf/AyamZaman.jpg" /><media:content medium="image" url="https://music.ybenel.cf/AyamZaman.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">3310</title><link href="https://music.ybenel.cf/2019/10/25/3310.html" rel="alternate" type="text/html" title="3310" /><published>2019-10-25T00:00:00+01:00</published><updated>2019-10-25T00:00:00+01:00</updated><id>https://music.ybenel.cf/2019/10/25/3310</id><content type="html" xml:base="https://music.ybenel.cf/2019/10/25/3310.html">&lt;!---
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
 &lt;!-- ybenel --&gt;
 &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.tk/episodes/3310.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.tk/img/3310.jpg&quot;,&quot;title&quot;:&quot;3310&quot;,&quot;subtitle&quot;:&quot;3310 Instru By Ybenel&quot;,&quot;url&quot;:&quot;https://music.ybenel.tk/2019/10/25/3310.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.cf/episodes/3310.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.cf/img/3310.jpg&quot;,&quot;title&quot;:&quot;3310&quot;,&quot;subtitle&quot;:&quot;3310 Instru By Ybenel&quot;,&quot;url&quot;:&quot;https://music.ybenel.cf/2019/10/25/3310.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.ybenel.tk/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://music.ybenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
@@ -140,4 +159,4 @@ It is only necessary for hosting remotely.
 &lt;ul&gt;
   &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
   &lt;li&gt;3310 Instrumental Inspired From 3310 By (Madd)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.tk/3310.jpg" /><media:content medium="image" url="https://music.ybenel.tk/3310.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/ul&gt;</content><author><name>Ybenel</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://music.ybenel.cf/3310.jpg" /><media:content medium="image" url="https://music.ybenel.cf/3310.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

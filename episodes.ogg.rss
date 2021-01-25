@@ -9,18 +9,18 @@
 
   <channel>
     <title>Ybenel</title>
-    <link>https://music.ybenel.tk</link>
-    <atom:link href="https://music.ybenel.tk/episodes.ogg.rss" rel="self" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
-    <atom:link href="https://music.ybenel.tk/episodes.ogg.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="https://music.ybenel.tk/episodes.ogg.rss" rel="last" type="application/rss+xml" />
+    <link>https://music.ybenel.cf</link>
+    <atom:link href="https://music.ybenel.cf/episodes.ogg.rss" rel="self" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
+    <atom:link href="https://music.ybenel.cf/episodes.ogg.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://music.ybenel.cf/episodes.ogg.rss" rel="last" type="application/rss+xml" />
     
     
 
-    <atom:link rel="alternate" href="https://music.ybenel.tk/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
-<atom:link rel="alternate" href="https://music.ybenel.tk/episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link rel="alternate" href="https://music.ybenel.cf/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+<atom:link rel="alternate" href="https://music.ybenel.cf/episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
     <description>My Super Music Tracks.
 </description>
-    <lastBuildDate>Sun, 22 Nov 2020 19:50:27 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jan 2021 00:44:57 +0100</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -28,19 +28,19 @@
 </itunes:summary>
     <itunes:author>ybenel</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://music.ybenel.tk/img/logo-itunes.jpg" />
+    <itunes:image href="https://music.ybenel.cf/img/logo-itunes.jpg" />
     <itunes:owner>
       <itunes:name>ybenel</itunes:name>
-      <itunes:email>r2dr0dn@pm.me</itunes:email>
+      <itunes:email>ybenel@molero.xyz</itunes:email>
     </itunes:owner>
-    <managingEditor>r2dr0dn@pm.me (ybenel)</managingEditor>
+    <managingEditor>ybenel@molero.xyz (ybenel)</managingEditor>
     <copyright>CC BY 4.0</copyright>
-    <itunes:subtitle>Where Life Comes By Music</itunes:subtitle>
+    <itunes:subtitle>Music Is What Made Me Who I Am Now :D</itunes:subtitle>
     <itunes:keywords>electronic, techno, dance, club, music, magic</itunes:keywords>
     <image>
       <title>Ybenel</title>
-      <url>https://music.ybenel.tk/img/logo-itunes.jpg</url>
-      <link>https://music.ybenel.tk</link>
+      <url>https://music.ybenel.cf/img/logo-itunes.jpg</url>
+      <link>https://music.ybenel.cf</link>
     </image>
     
     <itunes:category text="Technology" />
