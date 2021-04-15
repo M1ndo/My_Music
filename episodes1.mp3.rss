@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="https://music.ybenel.cf/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
     <description>My Super Music Tracks.
 </description>
-    <lastBuildDate>Tue, 26 Jan 2021 00:44:57 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 15 Apr 2021 12:45:04 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.23</generator>
 
@@ -45,6 +45,61 @@
     
     <itunes:category text="Technology" />
     <item>
+            <title>Instant Crush - The Instant Crush Of My Hearth</title>
+            <link>https://music.ybenel.cf/2021/04/15/Instant-Crush.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://music.ybenel.cf/players/Instant-Crush"/>
+            <comments>https://music.ybenel.cf/2021/04/15/Instant-Crush.html#disqus_thread</comments>
+            <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+            
+            <guid isPermaLink="false">https://music.ybenel.cf/2021/04/15/Instant-Crush.html</guid>
+            <description><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- ybenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>Instant Crush Track 05 Album Random Access Memories (Daft Punk)</li>
+  <li>A Peaceful Song That Makes You Want To Kiss And Cry</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+-->
+<!-- ybenel -->
+<!-- 
+ -->
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>(mp3 = 320kbit (HQ))</li>
+  <li>Instant Crush Track 05 Album Random Access Memories (Daft Punk)</li>
+  <li>A Peaceful Song That Makes You Want To Kiss And Cry</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="https://music.ybenel.cf/episodes/InstantCrush.mp3" 
+                         length="13637960" 
+                         type="audio/mpeg" />
+            
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>The Instant Crush Of My Hearth</itunes:subtitle>
+            <itunes:summary>Daft Punk - Instant Crush</itunes:summary>
+            <itunes:author>Daft Punk, Julian Casablancas</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>340.0</itunes:duration>
+            <itunes:image href="https://music.ybenel.cf/img/InstantCrush.jpg" />
+              <image>
+                <title></title>
+                <url>https://music.ybenel.cf/img/InstantCrush.jpg</url>
+                <link>https://music.ybenel.cf</link>
+              </image></item><item>
             <title>Monster Grain - Monster OST.</title>
             <link>https://music.ybenel.cf/2021/01/24/Monster-Grain.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://music.ybenel.cf/players/Monster-Grain"/>

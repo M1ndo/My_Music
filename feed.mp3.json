@@ -12,6 +12,18 @@
    "url": "https://music.ybenel.cf"
  },
  "items": [
+   {"id": "469bdfb4",
+    "title": "Instant Crush",
+    "summary": "",
+    "content_text": "Show Notes and Links  (mp3 = 320kbit (HQ))  Instant Crush Track 05 Album Random Access Memories (Daft Punk)  A Peaceful Song That Makes You Want To Kiss And Cry",
+    "content_html": "<!---The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><!-- ybenel --><!-- <script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://music.ybenel.cf/episodes/InstantCrush.mp3\"},\"coverUrl\":\"https://music.ybenel.cf/img/InstantCrush.jpg\",\"title\":\"Instant Crush\",\"subtitle\":\"The Instant Crush Of My Hearth\",\"url\":\"https://music.ybenel.cf/2021/04/15/Instant-Crush.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\"        src=\"https://music.ybenel.cf/podigee-player/javascripts/podigee-podcast-player.js\"></script> --><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>(mp3 = 320kbit (HQ))</li>  <li>Instant Crush Track 05 Album Random Access Memories (Daft Punk)</li>  <li>A Peaceful Song That Makes You Want To Kiss And Cry</li></ul>",
+    "url": "https://music.ybenel.cf/2021/04/15/Instant-Crush.html",
+    "date_published": "2021-04-15T00:00:00+00:00",
+    "date_modified": "2021-04-15T00:00:00+00:00",
+    "author": {
+      "name": "Daft Punk, Julian Casablancas"
+    }
+  },
    {"id": "2bf66574",
     "title": "Monster Grain",
     "summary": "",

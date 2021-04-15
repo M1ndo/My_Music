@@ -4,13 +4,50 @@
   <title>Ybenel</title>
   <link href="https://music.ybenel.cf/general_feed.xml" rel="self"/>
   <link href="https://music.ybenel.cf"/>
-  <updated>2021-01-26T00:44:57+01:00</updated>
+  <updated>2021-04-15T12:45:04+00:00</updated>
   <id>https://music.ybenel.cf/</id>
   <author>
     <name>ybenel</name>
     <email>ybenel@molero.xyz</email>
   </author>
 
+  
+    <entry>
+      <title>Instant Crush</title>
+      <link href="https://music.ybenel.cf/2021/04/15/Instant-Crush.html"/>
+      <updated>2021-04-15T00:00:00+00:00</updated>
+      <id>https://music.ybenel.cf/2021/04/15/Instant-Crush</id>
+      <content type="html">&lt;!---
+The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
+It is only necessary for hosting remotely.
+--&gt;
+&lt;!-- ybenel --&gt;
+&lt;!-- &lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://music.ybenel.cf/episodes/InstantCrush.mp3&quot;},&quot;coverUrl&quot;:&quot;https://music.ybenel.cf/img/InstantCrush.jpg&quot;,&quot;title&quot;:&quot;Instant Crush&quot;,&quot;subtitle&quot;:&quot;The Instant Crush Of My Hearth&quot;,&quot;url&quot;:&quot;https://music.ybenel.cf/2021/04/15/Instant-Crush.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot;
+        src=&quot;https://music.ybenel.cf/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+ --&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(mp3 = 320kbit (HQ))&lt;/li&gt;
+  &lt;li&gt;Instant Crush Track 05 Album Random Access Memories (Daft Punk)&lt;/li&gt;
+  &lt;li&gt;A Peaceful Song That Makes You Want To Kiss And Cry&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="13637960" 
+                href="https://music.ybenel.cf/episodes/InstantCrush.mp3"/>    
+        
+      
+      
+    </entry>
   
     <entry>
       <title>Monster Grain</title>
